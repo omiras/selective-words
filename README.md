@@ -8,6 +8,9 @@ Notar que las palabras están separadas por una coma y un espacio, y al final de
 
 Nota: recomiendo quitar el Auto Save para este ejercicio, ya que después de salvar, todo el código es indentado de nuevo.
 
+Cómo abrir el proyecto:
+<img src="https://oscarm.tinytake.com/media/141b12a?filename=1677875673230_TinyTake03-03-2023-09-34-14_638134724726074188.png&sub_type=thumbnail_preview&type=attachment&width=1197&height=166" title="Powered by TinyTake Screen Capture"/><br><a href="https://www.tinytake.com">.</a>
+
 ## Bonus
 
 Cambia el valor de _minSize_ y sigue comprobando que el ejercicio sigue funcionando. Ejemplo si cambiamos el valor de minSize = 9, solo debería aparecer la palabra "Orangután."
