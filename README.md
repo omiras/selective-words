@@ -4,7 +4,7 @@ Observa el fichero app.js. Queremos completar el código para seleccionar todas 
 
 Es decir para la configuración actual, deberíamos ver por pantalla exactamente el siguiente texto:
 <img src="https://oscarm.tinytake.com/media/141a828?filename=1677846621756_TinyTake03-03-2023-01-30-23_638134434247488081.png&sub_type=thumbnail_preview&type=attachment&width=393&height=464" title="Powered by TinyTake Screen Capture"/><br><a href="https://www.tinytake.com"></a>
-Gato y loro no aparecen porque tienen menos de 5 letras, el valor de la variable _minSize_
+**Gato** y **loro** no aparecen porque tienen menos de 5 letras, el valor de la variable _minSize_
 Notar que las palabras están separadas por una coma y un espacio, y al final de la última palabra, hay un punto.
 
 Nota: recomiendo quitar el Auto Save para este ejercicio, ya que después de salvar, todo el código es indentado de nuevo.
