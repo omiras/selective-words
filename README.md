@@ -1,6 +1,6 @@
 # Ejercicio
 
-Observa el fichero app.js. Queremos completar el código para seleccionar todas las palabras del arary _words_ tal que tengan por lo menos el número de letras igual al valor de la variable _minSize_
+Observa el fichero **src/app.js**. Queremos completar el código para seleccionar todas las palabras del arary _words_ tal que tengan por lo menos el número de letras igual al valor de la variable _minSize_
 
 <img src="https://oscarm.tinytake.com/media/141b122?filename=1677875496795_TinyTake03-03-2023-09-31-34_638134722962483435.png&sub_type=thumbnail_preview&type=attachment&width=586&height=522" title="Powered by TinyTake Screen Capture"/><br><a href="https://www.tinytake.com">.</a>
 **Gato** y **loro** no aparecen porque tienen menos de 5 letras, el valor de la variable _minSize_
