@@ -12,5 +12,7 @@ window.onload = function() {
 
   // Modificar a partir de aquí
 
+  // NO modificar a partir de aquí
+
   document.querySelector("#excuse").innerHTML = result;
 };
