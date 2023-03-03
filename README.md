@@ -13,10 +13,6 @@ Nota: recomiendo quitar el Auto Save para este ejercicio, ya que después de sal
 
 Cambia el valor de _minSize_ y sigue comprobando que el ejercicio sigue funcionando. Ejemplo si cambiamos el valor de minSize = 9, solo debería aparecer la palabra "Orangután."
 
-# Hello World with Vanilla JS
-
-Start coding in 30 seconds by opening this template in gitpod:
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git)
 
 ### Manual Installation
 
